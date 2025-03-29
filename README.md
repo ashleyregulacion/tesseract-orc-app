@@ -1,1 +1,1 @@
-# tesseract-orc-app
+# Read Images and Convert to Text using PHP
